@@ -1,0 +1,23 @@
+# build directories
+/build
+/dist
+/packing/Windows/UG_Remote
+/packing/MacOS/UG_Remote.app
+
+# Python virtual env
+/venv
+
+# excutables
+**.exe
+**.7z
+**.dmg
+**.zip
+
+# profiles
+/dist/passwd
+/dist/profile.json
+/passwd
+/profile.json
+
+# idea
+/.idea
